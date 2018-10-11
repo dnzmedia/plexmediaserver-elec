@@ -4,4 +4,4 @@ Plex media server allows you to aggregate all your personal media and access it 
 
 --to update new version: extract ".spk\package.tgz\package.tar\" file in \lib dir.
 
-*Will work on libreelec and coreelec
+*Will work on coreelec
